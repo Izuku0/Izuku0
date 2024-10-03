@@ -1,6 +1,6 @@
 # Hey there, I'm Tukaram Pawar! 👨‍💻
 
-![Coding Cover](https://media.giphy.com/media/l1J9q3qzNxR0Jp9eU/giphy.gif)
+![Coding Cover]("C:\Users\DonKa\Downloads\github-header-image.png")
 
 Welcome to my coding corner on GitHub! I'm a curious **Full Stack Developer** who loves crafting web and mobile applications. My journey in tech is fueled by a passion for problem-solving and building impactful digital experiences.
 
